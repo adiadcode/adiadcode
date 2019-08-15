@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
+## AdiaK DCodE | www.adiakdcodee.blogspot.com
 
 You can use the [editor on GitHub](https://github.com/adiakdcode/adiadcode/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
